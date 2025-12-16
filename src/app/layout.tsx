@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 		siteName: 'Newzio',
 		images: [
 			{
-				url: 'https://wolfey.s-ul.eu/rqVWnY3f',
+				url: '/files/cover.png',
 				width: 1280,
 				height: 720,
 				alt: 'Thumbnail',
